@@ -1,0 +1,10 @@
+{
+  "modid": "ShadowverseTheSpireEnglishVoicePack",
+  "name": "ShadowverseTheSpireEnglishVoicePack",
+  "author_list": ["Fang","Nova"],
+  "description": "An English voice pack which replace original Japanese voice of ShadowverseTheSpire.",
+  "version": "0.0.1",
+  "sts_version": "22-10-2022",
+  "mts_version": "3.21.0",
+  "dependencies": ["basemod","stslib","LazyManKits","shadowverse"]
+}
